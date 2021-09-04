@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.report.testrail.TestrailApplicationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-03T05:32:17" hostname="PF2PHXK6" time="0.059">
+  <properties/>
+  <testcase name="testAssertTrueTwo()" classname="com.report.testrail.TestrailApplicationTests" time="0.045"/>
+  <testcase name="testAssertFalse()" classname="com.report.testrail.TestrailApplicationTests" time="0.005"/>
+  <testcase name="testAssertTrue()" classname="com.report.testrail.TestrailApplicationTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
